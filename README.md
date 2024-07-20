@@ -112,11 +112,11 @@ The Pokemon Review App is a web application that allows users to review Pokémon
    ```bash
    dotnet run
 
-##Configuration
+## Configuration
 The application configuration is managed through appsettings.json and appsettings.Development.json.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
